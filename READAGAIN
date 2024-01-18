@@ -1,0 +1,4 @@
+Je n'arrive toujours pas à obtenir mon terminal sur microsoft visual studio , mon git est bien synchronisé mais je ne sais pas comment ouvrir le terminal !!
+
+git branch local_branch
+git push origin local_branch
