@@ -8,5 +8,5 @@ git clone https://github.com/Nathantqt/gpl1.git
 git fetch
 echo "new" > local1
 git add local1
-git commit local1
+git commit -m
 git push 
